@@ -13,3 +13,9 @@ In alternativa scarica **TEAM-GUZZETTA-STATISTICHE.zip**, scegli **Estrai tutto*
 Il programma si apre con dati dimostrativi e li segnala. Per iniziare con i tuoi dati, usa il comando dedicato dopo aver letto la conferma. I dati vengono conservati nel browser: usa sempre lo stesso browser e lo stesso file, ed esporta regolarmente un backup. Per spostare o sostituire il file, esporta prima il backup e ripristinalo nella nuova copia. Il programma non è collegato al conto bancario e non sincronizza dati fra computer.
 
 Se Windows apre un editor di testo, usa **Apri con** e scegli Edge o Chrome. Se il file termina con `.html.txt`, riscarica il file originale: l'estensione corretta è `.html`.
+
+## Nuova grafica
+
+La versione aggiornata include l’identità personalizzata Team Guzzetta in bordò, blu e dorato. Apri `ANTEPRIMA-GRAFICA.png` per vedere una schermata con dati dimostrativi.
+
+Prima di sostituire una vecchia copia del programma, esporta il backup e conservalo. Se necessario, ripristinalo nella nuova copia.
