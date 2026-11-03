@@ -35,3 +35,8 @@ SUPPORTO
 Se l'installazione non riesce, la finestra resta aperta con l'errore.
 Il pacchetto e uno script locale leggibile e non dispone di firma digitale. Non modifica le politiche di sicurezza di Windows e non richiede password o credenziali.
 Il contenuto HTML e stato verificato nel browser e gli script sono stati controllati staticamente; l'installazione Windows richiede verifica su un PC Windows reale.
+
+SE COMPARE UN ERRORE
+Questa versione mostra le cinque fasi di installazione e conserva l'errore nel file ERRORE-INSTALLAZIONE.txt, nella stessa cartella dell'installer. Se la cartella non e scrivibile, usa il registro %TEMP%\TeamGuzzetta-installazione.log.
+Copia la riga che inizia con ERRORE oppure invia una foto della finestra. Non e sufficiente sapere che il messaggio e rosso: occorre il testo per distinguere file mancanti, browser non trovato o permessi sulle cartelle/collegamenti.
+La sintassi dello script e stata controllata anche con il parser ufficiale PowerShell. Questo non verifica le API specifiche di un PC Windows.
