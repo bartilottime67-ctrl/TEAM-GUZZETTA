@@ -22,6 +22,8 @@ Se Windows apre un editor di testo, usa **Apri con** e scegli Edge o Chrome. Se 
 
 ## Nuova grafica
 
-La versione aggiornata include l’identità personalizzata Team Guzzetta in dorato più scuro e testi bordò, con blu luminoso per gli incassi e il nuovo logo della chiave con profilo di casa. Apri `ANTEPRIMA-GRAFICA.png` per vedere una schermata con dati dimostrativi.
+La versione aggiornata include l’identità personalizzata Team Guzzetta in dorato più scuro e testi bordò, con blu luminoso per gli incassi e il logo della casa geometrica moderna. Apri `ANTEPRIMA-GRAFICA.png` per vedere una schermata con dati dimostrativi.
 
 Prima di sostituire una vecchia copia del programma, esporta il backup e conservalo. Se necessario, ripristinalo nella nuova copia.
+
+Per aggiornare il logo nell’app installata, chiudi Team Guzzetta, estrai il nuovo pacchetto di installazione e avvia `INSTALLA-TEAM-GUZZETTA.cmd`. Il programma aggiorna file e icona conservando il profilo dati.

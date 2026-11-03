@@ -7,7 +7,7 @@ Riferimento scelto dall'utente il 3 novembre 2026 per il programma Statistiche /
 - Dorato più scuro, con tonalità bronzo, per menu e intestazione.
 - Scritte bordò al posto del grigio, mantenendo testo chiaro sulle superfici bordò per leggibilità.
 - Blu luminoso come accento per gli incassi; evitare grandi superfici blu scuro.
-- Logo con chiave geometrica dal profilo di casa. Non reintrodurre il monogramma G o il precedente simbolo dei portali intrecciati.
+- Logo con casa geometrica moderna, scelto dall’utente in sostituzione della chiave. Non reintrodurre il monogramma G o il precedente simbolo dei portali intrecciati.
 - Stile moderno e personalizzato Team Guzzetta, coerente fra applicazione, PDF e versione Windows.
 - Incassi e spese distinti visivamente e nei moduli: incassi in blu, spese in bordò.
 
@@ -15,9 +15,9 @@ Questa è la grafica di riferimento approvata. Mantenerla mentre si aggiungono f
 
 ## Riferimenti della versione approvata
 
-Versione: `b8b186f762d8b60ad001c7f6c27713be6f809eef`.
+La palette dorato scuro/bronzo e testi bordò resta approvata. Il logo attuale è la proposta “Casa geometrica moderna” selezionata dall’utente.
 
-- [Anteprima approvata](https://github.com/bartilottime67-ctrl/TEAM-GUZZETTA/blob/b8b186f762d8b60ad001c7f6c27713be6f809eef/ANTEPRIMA-GRAFICA.png)
-- [Logo approvato](https://github.com/bartilottime67-ctrl/TEAM-GUZZETTA/blob/b8b186f762d8b60ad001c7f6c27713be6f809eef/LOGO-TEAM-GUZZETTA.svg)
+- [Anteprima aggiornata](ANTEPRIMA-GRAFICA.png)
+- [Logo attuale](LOGO-TEAM-GUZZETTA.svg)
 - Applicazione autonoma: `TEAM-GUZZETTA-STATISTICHE-APRI.html`.
-- Pacchetto Windows: `TEAM-GUZZETTA-STATISTICHE.zip`.
+- Installazione/aggiornamento Windows: `TEAM-GUZZETTA-INSTALLAZIONE-WINDOWS.zip`.
