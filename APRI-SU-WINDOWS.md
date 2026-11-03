@@ -1,5 +1,11 @@
 # Aprire Team Guzzetta su Windows
 
+## Installazione come app
+
+Scarica **TEAM-GUZZETTA-INSTALLAZIONE-WINDOWS.zip**, estrai tutto e fai doppio clic su **INSTALLA-TEAM-GUZZETTA.cmd**. Vengono creati i collegamenti sul Desktop e nel menu Start. L'app usa Edge o Chrome in una finestra dedicata e salva in un profilo locale separato.
+
+Se usavi il vecchio HTML, esporta prima il backup e ripristinalo nell'app installata. Non vengono trasferiti automaticamente i dati della vecchia copia. Le istruzioni complete e i limiti di verifica Windows sono in `LEGGIMI-WINDOWS.txt`.
+
 Il programma completo è il file **TEAM-GUZZETTA-STATISTICHE-APRI.html** in questa cartella. Comprende clienti, vendite, pulsanti separati per incassi e spese, quote RE/MAX e report.
 
 1. Apri il file HTML su GitHub e premi **Download raw file** (icona con freccia verso il basso). Scarica il file, senza copiare il testo della pagina GitHub.

@@ -1,0 +1,37 @@
+TEAM GUZZETTA - APP PER WINDOWS
+
+INSTALLAZIONE
+1. Estrai TUTTO il contenuto dello ZIP.
+2. Apri la cartella estratta.
+3. Fai doppio clic su INSTALLA-TEAM-GUZZETTA.cmd.
+4. Al termine apri l'icona Team Guzzetta sul Desktop o nel menu Start.
+
+Non servono comandi da digitare, Node.js o diritti di amministratore.
+Richiede Windows 10/11 e Microsoft Edge oppure Google Chrome gia installato.
+Se il PC e gestito da un'organizzazione, le sue regole possono impedire l'esecuzione dell'installer o l'uso di profili browser dedicati.
+
+CHE TIPO DI APP E
+Il programma viene copiato nella tua cartella utente e aperto in una finestra dedicata di Edge o Chrome, senza barra degli indirizzi. Non e un eseguibile nativo indipendente dal browser. L'interfaccia, i moduli e i report sono gli stessi del programma completo. Dopo il download l'app funziona offline; non richiede un server o un collegamento bancario.
+
+DOVE SALVA I DATI
+Applicazione: %LOCALAPPDATA%\TeamGuzzetta\TeamGuzzetta.html
+Dati: profilo browser dedicato in %LOCALAPPDATA%\TeamGuzzetta\ProfiloApp
+Il profilo e separato dal browser usato normalmente. Non eliminare questa cartella se vuoi conservare l'archivio.
+Esporta regolarmente il backup dall'app.
+
+SE USAVI GIA IL FILE HTML
+Prima dell'installazione, apri la vecchia copia e premi Esporta backup.
+Nell'app installata vai in Clienti > Ripristina backup e seleziona quel file.
+Il nuovo profilo non importa automaticamente i dati dalla vecchia copia.
+
+AGGIORNAMENTI
+Chiudi l'app e avvia l'installer della nuova versione. Il file del programma viene aggiornato nello stesso percorso, lasciando il profilo dati. Una copia del precedente HTML viene mantenuta nella cartella dell'app. Esporta sempre un backup prima di aggiornare.
+
+RIMOZIONE
+Menu Start > Team Guzzetta > Rimuovi Team Guzzetta.
+Rimuove programma e icone, conservando il profilo dati e il file precedente. I dati non vengono cancellati automaticamente. Puoi anche usare RIMUOVI-TEAM-GUZZETTA.cmd nella cartella estratta.
+
+SUPPORTO
+Se l'installazione non riesce, la finestra resta aperta con l'errore.
+Il pacchetto e uno script locale leggibile e non dispone di firma digitale. Non modifica le politiche di sicurezza di Windows e non richiede password o credenziali.
+Il contenuto HTML e stato verificato nel browser e gli script sono stati controllati staticamente; l'installazione Windows richiede verifica su un PC Windows reale.
