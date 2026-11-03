@@ -16,6 +16,6 @@ Se Windows apre un editor di testo, usa **Apri con** e scegli Edge o Chrome. Se 
 
 ## Nuova grafica
 
-La versione aggiornata include l’identità personalizzata Team Guzzetta in dorato chiaro, champagne e bordò, con blu luminoso per gli incassi e un nuovo logo architettonico al posto della G. Apri `ANTEPRIMA-GRAFICA.png` per vedere una schermata con dati dimostrativi.
+La versione aggiornata include l’identità personalizzata Team Guzzetta in dorato più scuro e testi bordò, con blu luminoso per gli incassi e il nuovo logo della chiave con profilo di casa. Apri `ANTEPRIMA-GRAFICA.png` per vedere una schermata con dati dimostrativi.
 
 Prima di sostituire una vecchia copia del programma, esporta il backup e conservalo. Se necessario, ripristinalo nella nuova copia.
